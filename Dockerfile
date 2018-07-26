@@ -1,5 +1,4 @@
 FROM node
-MAINTAINER Niko Bellic <niko.bellic@kakaocorp.com>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
